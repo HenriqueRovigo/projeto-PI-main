@@ -48,6 +48,15 @@ section.topicos ul li{
     border-radius: 3vw;
     font-size: small;
 }
+p {
+    color: rgb(146, 53, 10);
+}
+h1 {
+    color: rgb(146, 53, 10);
+}
+h2 {
+    color: rgb(146, 53, 10);
+}
 
 section.topicos ul li a img {
     width: 60vw;
