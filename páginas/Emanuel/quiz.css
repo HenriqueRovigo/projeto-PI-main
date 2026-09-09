@@ -1,0 +1,44 @@
+section {
+    text-align: center;
+    margin: 20px 0 50px 0;
+}
+
+section.primeiro ol {
+    padding: 0 0 20px 0;
+}
+
+label {
+    display: inline-block;
+    border-color: rgb(146, 53, 10);
+    color: #eb922c;
+    border: solid;
+    padding: 10px;
+    width: 80%;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #4eaf12;
+    border-color: #e4de1a;
+    color: #e4de1a;
+}
+
+button:focus {
+    background-color: #0e793c;
+    border-color: #3a610b;
+
+}
+#resposta {
+    border-color: rgb(146, 53, 10);
+    color: rgb(146, 53, 10);
+    border: solid;
+    margin: 67px 0 0 0;
+}
+ol > li{
+    display: none;
+}
+ol > li:first-child{
+    display: block;
+}
