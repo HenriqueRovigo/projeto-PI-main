@@ -98,3 +98,8 @@ section.nos ul{
     justify-content: space-between;
     font-family: Oswald;
 }
+.nos img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
